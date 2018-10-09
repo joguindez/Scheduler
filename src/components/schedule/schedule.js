@@ -12,6 +12,7 @@ class Schedule extends Component {
                 <ScheduleCourse title={'Problem Solving'}/>
                 <ScheduleCourse title={'Problem Solving'}/>
                 <ScheduleCourse title={'Problem Solving'}/>
+                <ProgressTracker/>
                 <Gradient/>
             </div>
         );
